@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lips-trace-the-line/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Lips Trace The Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lips-trace-the-line/) |
+| **Get License** | [Music Rights & Licensing for Lips Trace The Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lips-trace-the-line/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> A quiet touch in the fading light
+> I pull you close against my chest
+> I want to lose myself tonight
+> And put your every fear to rest
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
